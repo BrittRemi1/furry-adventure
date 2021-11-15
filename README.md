@@ -1,2 +1,2 @@
 # furry-adventure
-Simple thing, bigger minds
+Simple things, bigger minds
